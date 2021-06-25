@@ -6,5 +6,5 @@
 - 📫 Contact me: [mail](visharadborsutkar777@gmail.com)
 - Portfolio Website : [Link]()
 
-![Visharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Visharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VISHARAD17&show_icons=true&theme=radical)
 
