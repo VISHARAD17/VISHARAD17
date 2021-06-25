@@ -5,3 +5,6 @@
 - My interest includes Data Science, Machine Learing and High Performance computing.
 - 📫 Contact me: [mail](visharadborsutkar777@gmail.com)
 - Portfolio Website : [Link]()
+
+![Visharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
