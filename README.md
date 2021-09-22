@@ -2,7 +2,7 @@
 
 - 🌱 I am Visharad, a 4th year undergraduate student at IIT Madras.
 - 👯 I am proficient in C++, Python & FORTRAN.
-- My interest includes Data Science, Machine Learing and High Performance computing application.
+- My interest includes Data Science, Machine Learing, Full stack devlopment and High Performance computing applications.
 - 📫 Contact me: [mail](visharadborsutkar777@gmail.com)
 - Portfolio Website : [Link]()
 - Languages and Tools :
