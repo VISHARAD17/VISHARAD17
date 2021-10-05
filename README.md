@@ -11,7 +11,7 @@
 
 - Github stats :
 
-| ![Visharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VISHARAD17&show_icons=true&theme=radical&border_radius=7px&hide_border=true&title_color='#ffffff'&text_color='#ffffff') | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHARAD17&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Visharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VISHARAD17&show_icons=true&theme=radical&border_radius=7px&hide_border=true&title_color='#ffffff'&text_color='#ffffff') | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs&langs_count=8/?username=VISHARAD17&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 ![](https://komarev.com/ghpvc/?username=VISHARAD&label=PROFILE+VIEWS)
