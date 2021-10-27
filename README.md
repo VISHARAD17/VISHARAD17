@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 - 🌱 I am Visharad, a prefinal year student at IIT Madras.
-- 👯 I know C++, Python & FORTRAN.
-- I am proficient in Data Structures and Algorithms.
-- Also I have experience in Web Devlopement
-- My interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications.
+- 👯 I have working proficieny in  C++, Python & FORTRAN.
+- I have decent understanding of Data Structures and Algorithms. check out my [Leetcode](https://leetcode.com/VISHARAD17/) profile.
+- Also I have experience in Full Stack Web Devlopement
+- Aprt from that, my other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications.
 - 📫 Contact me: [mail](visharadborsutkar777@gmail.com)
 - Portfolio Website : [Link]() (currently developing)
 
