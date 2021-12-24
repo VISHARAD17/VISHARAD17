@@ -9,9 +9,9 @@
 - Portfolio Website : [Link]() (currently developing)
 
 ### Competetive Coding Profile : 
-- pupile at codeforces (max. rating - 1245)
-- 3 Star at CodeChef (max. rating - 1735)
-- 3 start at leetcode (max. rating - 1364)
+- pupile at codeforces (max. rating - 1259) [ 7 contest attented ]
+- 3 Star at CodeChef (max. rating - 1735) [ 4 contest attented ]
+- 3 start at leetcode (max. rating - 1364) [ 5 contest attented ]
  
 [![VISHARAD's github activity graph](https://activity-graph.herokuapp.com/graph?username=VISHARAD17&theme=react-dark)](https://github.com/VISHARAD17/github-readme-activity-graph)
 ## ⚡ Technologies
