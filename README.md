@@ -14,7 +14,8 @@
 |:---:|:---:|:---:|
 |**3 star**|**Pupil**|**3 Star**|
 |**Max Rating : 1364**|**Max. Rating: 1259**|**Max. Rating : 1735**|
-&nbsp &nbsp
+|5 contest| 14 contest| 5 contest|
+
 
 <p align = 'center'> <img src = "https://komarev.com/ghpvc/?username=VISHARAD&label=PROFILE+VIEWS"></p>
 &nbsp &nbsp
