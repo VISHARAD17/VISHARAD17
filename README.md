@@ -16,9 +16,7 @@
 |**Max Rating : 1364**|**Max. Rating: 1259**|**Max. Rating : 1735**|
 |5 contest| 14 contest| 5 contest|
 
-
-<p align = 'center'> <img src = "https://komarev.com/ghpvc/?username=VISHARAD&label=PROFILE+VIEWS"></p>
-&nbsp &nbsp
+<br>
 
 [![VISHARAD's github activity graph](https://activity-graph.herokuapp.com/graph?username=VISHARAD17&theme=react-dark)](https://github.com/VISHARAD17/github-readme-activity-graph)
 
@@ -44,5 +42,6 @@
     <a><img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 </p>
+<p align = 'center'> <img src = "https://komarev.com/ghpvc/?username=VISHARAD&label=PROFILE+VIEWS"></p>
 
 
