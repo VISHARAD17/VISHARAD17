@@ -5,9 +5,10 @@
 - A prefinal year student at IIT Madras.
 - Proficient in  **C++**, **Python** and **FORTRAN**.
 - Good understanding of **Data Structures & Algorithms** and **Full Stack Web Devlopement**.
-- My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications.
-
-<h2 align = 'center'> ⚡ Competitive Coding Profiles</h2>
+- My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
+<br>
+<br>
+<h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
 
 | <a><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> | <a><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a> | <a><img src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>|
