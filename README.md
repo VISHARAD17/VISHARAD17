@@ -6,7 +6,7 @@
 - Proficient in  **C++**, **Python** and **FORTRAN**.
 - Good understanding of **Data Structures & Algorithms** and **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
-<br>
+
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
 
