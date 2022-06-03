@@ -18,7 +18,7 @@
 
 <br>
 
-[![VISHARAD's github activity graph](https://activity-graph.herokuapp.com/graph?username=VISHARAD17&theme=react-dark)](https://github.com/VISHARAD17/github-readme-activity-graph)
+[![VISHARAD's github activity graph](https://visharad-github-activity.herokuapp.com/graph?username=VISHARAD17&theme=react-dark)](https://github.com/VISHARAD17/github-readme-activity-graph)
 
 <h2 align = 'center'> ⚡ Technologies</h2>
 &nbsp &nbsp
