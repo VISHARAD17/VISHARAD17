@@ -4,11 +4,11 @@
 ## **About me** :
 - Final year student at IIT Madras.
 - Proficient in  **C++**, **Python**, **SQL** and **FORTRAN**.
-- Strong hold of **Data Structures & Algorithms**
-- I also have good understanding of **Full Stack Web Devlopement**.
+- Strong hold of **Data Structures & Algorithms** and decent experience in **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
-- currently learning `web3`, `GraphQL` and more of backend development.
+- currently learning `web3`, `GraphQL` and exploring backend development
 - My resume [here](#)
+- My portfolio website : [Here](#)
 
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
