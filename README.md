@@ -2,11 +2,13 @@
 <h1 align = 'center'>Hii I'm Visharad &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## **About me** :
-- A final year student at IIT Madras.
+- Final year student at IIT Madras.
 - Proficient in  **C++**, **Python**, **SQL** and **FORTRAN**.
-- Strong hold of **Data Structures & Algorithms** and **Full Stack Web Devlopement**.
+- Strong hold of **Data Structures & Algorithms**
+- I also have good understanding of **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
 - currently learning `web3`, `GraphQL` and more of backend development.
+- My resume [here](#)
 
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
@@ -14,8 +16,8 @@
 | <a><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> | <a><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a> | <a><img src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>|
 |:---:|:---:|:---:|
 |**3 star**|**Pupil**|**3 Star**|
-|**Max Rating : 1364**|**Max. Rating: 1293**|**Max. Rating : 1735**|
-|7 contest| 16 contest| 5 contest|
+|**Max Rating : 1428**|**Max. Rating: 1293**|**Max. Rating : 1735**|
+|8 contest| 19 contest| 5 contest|
 
 <br>
 
@@ -34,7 +36,7 @@
 <p align = 'center'> <img src = "https://github-readme-streak-stats.herokuapp.com/?user=VISHARAD17"></p>
 &nbsp &nbsp
 
-<h2 align='center'>Contact Me :</h2>
+<h2 align='center'> Contact Me :</h2>
 &nbsp &nbsp
 <p align = 'center'>
     <a><img src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
