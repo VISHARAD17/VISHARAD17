@@ -2,13 +2,13 @@
 <h1 align = 'center'>Hii I'm Visharad &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## **About me** :
-- Final year student at IIT Madras.
+- Final year student Dual Degree at IIT Madras.
 - Proficient in  **C++**, **Python**, **SQL** and **FORTRAN**.
-- Strong hold of **Data Structures & Algorithms** and decent experience in **Full Stack Web Devlopement**.
+- Strong hold of **Data Structures & Algorithms** and experience in **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
-- currently learning `web3`, `GraphQL` and exploring backend development
-- My resume [here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
-- My portfolio website : [Here](https://portfolio-nextjs-gold.vercel.app/)
+- I've gathered decent experience in software development through various internships and variety of projects.
+- Checkout my resume [here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
+- Portfolio website : [Here](https://portfolio-nextjs-gold.vercel.app/)
 
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
