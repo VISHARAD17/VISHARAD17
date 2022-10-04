@@ -6,8 +6,8 @@
 - Proficient in  **C++**, **Python**, **SQL** and **FORTRAN**.
 - Strong hold of **Data Structures & Algorithms** and experience in **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
-- I've gathered decent experience in software development through various internships and variety of projects.
-- Checkout my resume [here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
+- I've have decent experience in software development through various internships and variety of projects.
+- Checkout my resume [Here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
 - Portfolio website : [Here](https://portfolio-nextjs-gold.vercel.app/)
 
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
