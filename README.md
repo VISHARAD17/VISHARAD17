@@ -7,8 +7,8 @@
 - Strong hold of **Data Structures & Algorithms** and decent experience in **Full Stack Web Devlopement**.
 - My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
 - currently learning `web3`, `GraphQL` and exploring backend development
-- My resume [here](#)
-- My portfolio website : [Here](#)
+- My resume [here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
+- My portfolio website : [Here](https://portfolio-nextjs-gold.vercel.app/)
 
 <h2 align = 'left'> ⚡ Competitive Coding Profiles :</h2>
 &nbsp &nbsp
@@ -16,8 +16,8 @@
 | <a><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> | <a><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a> | <a><img src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>|
 |:---:|:---:|:---:|
 |**3 star**|**Pupil**|**3 Star**|
-|**Max Rating : 1428**|**Max. Rating: 1293**|**Max. Rating : 1735**|
-|8 contest| 19 contest| 5 contest|
+|**Max Rating : 1523**|**Max. Rating: 1293**|**Max. Rating : 1735**|
+|12 contest| 31 contest| 5 contest|
 
 <br>
 
