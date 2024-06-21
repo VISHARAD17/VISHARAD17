@@ -2,10 +2,10 @@
 <h1 align = 'center'>Hii I'm Visharad &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## **About me** :
-- Final year student Dual Degree at IIT Madras.
-- Proficient in  **C++**, **Python**, **SQL** and **FORTRAN**.
-- Strong hold of **Data Structures & Algorithms** and experience in **Full Stack Web Devlopement**.
-- My other interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
+- Currently working as a Software developer at Standard Chartered Bank GBS.
+- Graduated from IIT Madras with BTech & MTech.
+- Proficient in  **C++**, **Python**, **Java**, **SQL** and **FORTRAN**.
+- My interest includes Data Science, Machine Learing, Full stack devlopment, DevOps and High Performance computing applications. 
 - I've have decent experience in software development through various internships and variety of projects.
 - Checkout my resume [Here](https://drive.google.com/file/d/1oosr0JlK2gCduBqmn8iXapVd37jVixw1/view)
 - Portfolio website : [Here](https://portfolio-nextjs-gold.vercel.app/)
