@@ -5,7 +5,7 @@
 - Software engineer with 4+ years of experience in software development, currently
   working as a software developer at @Standarad chartered Bank GBS.
 - I graduated with **Dual Degree (BTech + MTech)** from **IIT Madras**.
-- Proficient in  **C++**, **Python**, **Java**, **SQL**, **FORTRAN**, **SpringBoot** and **JavaScript**.
+- Proficient in  **C++**, **Python**, **Java**, **SQL**, **FORTRAN**, **SpringBoot**, **TypeScript**.
 - Have experience working with MERN Stack, Java-springboot, nextJS, flask, Django framework.
 - My interest includes Full stack devlopment, Data Science, Machine Learing, DevOps and High Performance computing applications.
 - currently learning AI/ML, graphQL, system design
