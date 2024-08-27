@@ -6,7 +6,7 @@
   working as a software developer at @Standarad Chartered Bank GBS.
 - I graduated with **Dual Degree (BTech + MTech)** from **IIT Madras**.
 - Proficient in  **C++**, **Python**, **Java**, **SQL**, **FORTRAN**, **SpringBoot**, **TypeScript**.
-- Databases **MongoDB**, **PostgreSQL**
+- Databases - **MongoDB**, **PostgreSQL**
 - Have experience working with MERN Stack, Java-springboot, nextJS, flask, and Django framework.
 - My interests include Full stack development, Data Science, Machine learning, DevOps, and High Performance computing applications.
 - currently learning AI/ML, graphQL, and system design
